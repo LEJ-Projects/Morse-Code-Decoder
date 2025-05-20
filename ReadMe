@@ -1,0 +1,1 @@
+This is an Arduino based project that decodes Morse Code messages from a telegraph sounder.   It monitors the voltage across the sounder coil and measures the duration of each key press.  These durations are decoded using the International Morse Code definition.  The results are displayed on a 16 character 2 line display.
